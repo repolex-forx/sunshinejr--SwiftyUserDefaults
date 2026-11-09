@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sunshinejr/SwiftyUserDefaults/commit/558c015e49524ebf5031b66980a722a4c225c302",
       "git:hexsha": "558c015e49524ebf5031b66980a722a4c225c302",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sunshinejr/SwiftyUserDefaults/commit/6638d5ce8f43b0312d6227da8a76f6025077cbd4",
